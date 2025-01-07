@@ -11,7 +11,7 @@ System.out println("this will result addition = "+ add(a,b));
 
 System.out println("this will result multiplication = "+ mul(a,b));
 System.out println("this will result subtraction = "+ sub(a,b));
-System.out println("this will result division = "+ div(a,b));
+System.out println("this will result division of two number= "+ div(a,b));
 
 
 }
